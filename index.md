@@ -3,6 +3,8 @@
 
 You follow conetent and comunitcate with ARRK pool operators at facebooks [Texas Cardano](https://www.facebook.com/groups/3441682422536641)
 
+### THIS SITE IS STILL UNDER CONSTRUCTION
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdowns
