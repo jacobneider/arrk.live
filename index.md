@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## ARRK POOL
 
-You can use the [editor on GitHub](https://github.com/jacobneider/arrk.live/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You follow conetent and comunitcate with ARRK pool operators at facebooks [Texas Cardano](https://www.facebook.com/groups/3441682422536641)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Markdowns
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
