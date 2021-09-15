@@ -1,14 +1,20 @@
-![Halo pool](https://user-images.githubusercontent.com/77803935/131909779-7a36f569-d301-4d3f-909a-534bbf321cb7.png)
 ## ARRK POOL
-![TEXAS CARDANO](https://user-images.githubusercontent.com/77803935/133515392-bfee6615-0c1b-44b4-9369-7dac5f5cbdf3.jpg)
+
+![Screenshot from 2021-05-19 12-42-05](https://user-images.githubusercontent.com/77803935/133521830-beac8625-549f-43db-a3df-38157a972918.jpg)
 
 You follow content and comunitcate with ARRK pool operators at facebooks [Texas Cardano](https://www.facebook.com/groups/3441682422536641)
+
+
+![TEXAS CARDANO](https://user-images.githubusercontent.com/77803935/133515392-bfee6615-0c1b-44b4-9369-7dac5f5cbdf3.jpg)
 
 
 
 
 
 ### !!!!!!THIS SITE IS STILL UNDER CONSTRUCTION!!!
+
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
