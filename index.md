@@ -1,7 +1,12 @@
 ![Halo pool](https://user-images.githubusercontent.com/77803935/131909779-7a36f569-d301-4d3f-909a-534bbf321cb7.png)
 ## ARRK POOL
+![TEXAS CARDANO](https://user-images.githubusercontent.com/77803935/133515392-bfee6615-0c1b-44b4-9369-7dac5f5cbdf3.jpg)
 
 You follow content and comunitcate with ARRK pool operators at facebooks [Texas Cardano](https://www.facebook.com/groups/3441682422536641)
+
+
+
+
 
 ### !!!!!!THIS SITE IS STILL UNDER CONSTRUCTION!!!
 
