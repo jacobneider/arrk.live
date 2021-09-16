@@ -1,2 +1,0 @@
-# arrk.live
-arrkmetadata.json
