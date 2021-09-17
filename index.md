@@ -1,4 +1,4 @@
-                                   Pool ID:3ed1b022f921fa2d37894e3592ac2271a00e25ef706df7c86743006e
+Pool ID:3ed1b022f921fa2d37894e3592ac2271a00e25ef706df7c86743006e
 
 
 ## ARRK POOL
